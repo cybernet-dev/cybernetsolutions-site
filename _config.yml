@@ -1,5 +1,5 @@
 title: Cybernet Solutions
 description: Software solutions for productivity and personal growth
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minima
 url: https://cybernetsolutions.co
-baseurl: “”
+baseurl: "/cybernetsolutions-site"
