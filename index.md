@@ -1,13 +1,9 @@
-
-
-
-
-⸻
-
+---
 layout: default
 title: Cybernet Solutions
+---
 
-Cybernet Solutions
+# Cybernet Solutions
 
 Building practical software solutions focused on productivity, personal growth, and technology.
 
