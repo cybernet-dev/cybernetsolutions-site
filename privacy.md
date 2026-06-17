@@ -1,20 +1,18 @@
 ---
 layout: page
-title: Privacy Policy
+title: Momentum Privacy Policy
 permalink: /momentum/privacy/
 ---
 
-Momentum Privacy Policy
-
 Last Updated: June 2026
 
-Overview
+## Overview
 
 Momentum is designed with privacy in mind.
 
 The application stores user data locally on the user’s device and does not require account creation.
 
-Information Collection
+## Information Collection
 
 Momentum does not collect personal information.
 
@@ -24,7 +22,7 @@ Momentum does not require:
 * User registration
 * Social media integration
 
-Data Storage
+## Data Storage
 
 All Momentum data is stored locally on the user’s device.
 
@@ -34,27 +32,27 @@ Examples of locally stored data include:
 * Daily Commitments
 * Application preferences
 
-Analytics
+## Analytics
 
 Momentum does not use analytics services.
 
-Advertising
+## Advertising
 
 Momentum does not display advertising.
 
-Data Sharing
+## Data Sharing
 
 Momentum does not sell, share, or transmit user data to third parties.
 
-Children’s Privacy
+## Children’s Privacy
 
 Momentum is not directed toward children under the age of 13.
 
-Changes to this Privacy Policy
+## Changes to this Privacy Policy
 
 This Privacy Policy may be updated periodically to reflect application changes.
 
-Contact
+## Contact
 
 For privacy-related questions, please contact:
 
