@@ -3,6 +3,6 @@ description: Software solutions for productivity and personal growth
 theme: minima
 url: "https://cybernetsolutions.co"
 header_pages:
-    - support.md
     - momentum.md
+    - support.md
     - privacy.md
