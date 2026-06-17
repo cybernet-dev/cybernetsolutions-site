@@ -1,5 +1,19 @@
 title: Cybernet Solutions
 description: Software solutions
+sass:
+  quiet_deps: true
+  silence_deprecations: [import]
+
+minima:
+  # Minima skin selection. Available skins are:
+  #   Available skins:
+  #     * classic            Default, light color scheme.
+  #     * dark               Dark variant of the classic skin.
+  #     * auto               Adaptive skin based on the default classic and dark skins.
+  #     * solarized-light    Light variant of solarized color scheme.
+  #     * solarized-dark     Dark variant of solarized color scheme.
+  #     * solarized          Adaptive skin for solarized color scheme skins.
+  skin: classic
 #theme: minima
 remote_theme: "jekyll/minima@c6e74bb"
 url: "https://cybernet-dev.github.io"
