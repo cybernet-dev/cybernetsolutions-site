@@ -58,4 +58,4 @@ Contact
 
 For privacy-related questions, please contact:
 
-privacy@cybernetsolutions.co
+[privacy@cybernetsolutions.co](mailto: privacy@cybernetsolutions.co)
