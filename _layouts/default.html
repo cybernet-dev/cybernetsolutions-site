@@ -20,6 +20,13 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
+        <nav class="site-nav" aria-label="Primary navigation">
+          <a href="{{ "/" | relative_url }}"{% if page.url == "/" %} aria-current="page"{% endif %}>Home</a>
+          <a href="{{ "/momentum/" | relative_url }}"{% if page.url == "/momentum/" %} aria-current="page"{% endif %}>Momentum</a>
+          <a href="{{ "/momentum/support/" | relative_url }}"{% if page.url == "/momentum/support/" %} aria-current="page"{% endif %}>Support</a>
+          <a href="{{ "/momentum/privacy/" | relative_url }}"{% if page.url == "/momentum/privacy/" %} aria-current="page"{% endif %}>Privacy</a>
+        </nav>
+
         {% if site.show_downloads %}
           <ul class="downloads">
             <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
