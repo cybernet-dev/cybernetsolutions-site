@@ -1,7 +1,6 @@
 title: Cybernet Solutions
 description: Software solutions for productivity and personal growth
 remote_theme: pages-themes/slate@v0.2.0
-#theme: minima
 url: "https://cybernetsolutions.co"
 header_pages:
     - momentum.md
