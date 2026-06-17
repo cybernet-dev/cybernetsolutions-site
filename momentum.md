@@ -2,10 +2,10 @@
 layout: page
 title: Momentum
 permalink: /momentum/
----
-[Support]({{ '/support/' | relative_url }}) | [Privacy]({{ '/privacy/' | relative_url }})
+[Support]({{ '/momentum/support/' | relative_url }}) | [Privacy]({{ '/momentum/privacy/' | relative_url }})
 
----# Momentum
+---
+# Momentum
 
 Momentum is a personal growth application designed to help users focus on what matters most and build consistent daily progress.
 
