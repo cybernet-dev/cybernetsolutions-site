@@ -56,4 +56,4 @@ This Privacy Policy may be updated periodically to reflect application changes.
 
 For privacy-related questions, please contact:
 
-[privacy@cybernetsolutions.co](mailto: privacy@cybernetsolutions.co?subject=Momentum%20Privacy%20Questions)
+[privacy@cybernetsolutions.co](mailto:privacy@cybernetsolutions.co?subject=Momentum%20Privacy%20Questions)
