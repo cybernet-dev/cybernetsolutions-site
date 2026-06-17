@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Momentum Support
 permalink: /momentum/support/
 ---
