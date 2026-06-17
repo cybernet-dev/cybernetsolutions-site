@@ -1,12 +1,8 @@
-
-
-
-
-⸻
-
+---
 layout: page
 title: Privacy Policy
 permalink: /momentum/privacy/
+---
 
 Momentum Privacy Policy
 
