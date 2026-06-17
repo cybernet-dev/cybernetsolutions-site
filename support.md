@@ -4,11 +4,11 @@ title: Momentum Support
 permalink: /momentum/support/
 ---
 
-Momentum Support
+# Momentum Support
 
 Thank you for using Momentum.
 
-Feedback
+## Feedback
 
 Feedback and feature suggestions are welcome.
 
@@ -19,7 +19,7 @@ Please include:
 * Momentum version
 * Description of the issue or suggestion
 
-Reporting Issues
+## Reporting Issues
 
 If you encounter a problem, please provide as much detail as possible, including:
 
@@ -27,11 +27,10 @@ If you encounter a problem, please provide as much detail as possible, including
 * Expected behavior
 * Actual behavior
 
-Contact
-
-Support requests can be sent to:
+## Contact Support
 
 [support@cybernetsolutions.co](mailto: support@cybernetsolutions.co?subject=Momentum%20Support) 
+Typical response time: 1–2 business days.
 
 Current Status
 
