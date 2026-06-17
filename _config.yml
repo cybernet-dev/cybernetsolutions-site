@@ -19,3 +19,4 @@ minima:
   hide_site_feed_link: true  # `false` or `null` by default
 remote_theme: "jekyll/minima@c6e74bb"
 url: "https://cybernet-dev.github.io"
+baseurl: "/cybernetsolutions-site"
