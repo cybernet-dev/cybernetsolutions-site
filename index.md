@@ -1,5 +1,6 @@
 ---
 layout: home
+# Cybernet Solutions
 ---
 
 Cybernet Solutions is an independent software company focused on creating simple, practical applications.
