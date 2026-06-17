@@ -1,4 +1,5 @@
 title: Cybernet Solutions
 description: Software solutions
-theme: minima
+#theme: minima
+remote_theme: "jekyll/minima@c6e74bb"
 url: "https://cybernet-dev.github.io"
