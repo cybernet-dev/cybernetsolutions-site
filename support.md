@@ -4,8 +4,6 @@ title: Momentum Support
 permalink: /momentum/support/
 ---
 
-# Momentum Support
-
 Thank you for using Momentum.
 
 ## Feedback
