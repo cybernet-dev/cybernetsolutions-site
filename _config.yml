@@ -13,7 +13,7 @@ minima:
   #     * solarized-light    Light variant of solarized color scheme.
   #     * solarized-dark     Dark variant of solarized color scheme.
   #     * solarized          Adaptive skin for solarized color scheme skins.
-  skin: classic
+  skin: dark
   nav_pages:
     - about.md
   hide_site_feed_link: true  # `false` or `null` by default
