@@ -3,4 +3,6 @@ description: Software solutions
 theme: minima
 url: "https://cybernetsolutions.co"
 header_pages:
+    - support.md
     - momentum.md
+    - privacy.md
