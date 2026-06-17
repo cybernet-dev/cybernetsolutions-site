@@ -14,6 +14,9 @@ minima:
   #     * solarized-dark     Dark variant of solarized color scheme.
   #     * solarized          Adaptive skin for solarized color scheme skins.
   skin: classic
+  nav_pages:
+    - about.md
+
 #theme: minima
 remote_theme: "jekyll/minima@c6e74bb"
 url: "https://cybernet-dev.github.io"
