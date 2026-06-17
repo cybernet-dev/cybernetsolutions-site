@@ -1,6 +1,6 @@
 title: Cybernet Solutions
 description: Software solutions for productivity and personal growth
-theme: slate
+theme: jekyll-theme-slate
 url: "https://cybernetsolutions.co"
 header_pages:
     - momentum.md
