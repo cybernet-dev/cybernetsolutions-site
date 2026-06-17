@@ -27,7 +27,7 @@ If you encounter a problem, please provide as much detail as possible, including
 
 ## Contact Support
 
-[support@cybernetsolutions.co](mailto: support@cybernetsolutions.co?subject=Momentum%20Support) 
+[support@cybernetsolutions.co](mailto:support@cybernetsolutions.co?subject=Momentum%20Support) 
 Typical response time: 1–2 business days.
 
 Current Status
