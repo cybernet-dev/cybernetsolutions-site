@@ -2,7 +2,5 @@ title: Cybernet Solutions
 description: Software solutions
 theme: minima
 url: "https://cybernetsolutions.co"
-baseurl: ""
-
 header_pages:
     - momentum.md
