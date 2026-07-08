@@ -51,6 +51,6 @@ The application does not require user accounts and does not sell or share person
 
 Need help or have feedback?
 
-[Momentum FAQ]({{ site.baseurl }}/momentum/faq/)
+[Momentum Help]({{ site.baseurl }}/momentum/help/)
 
 [Momentum Support]({{ site.baseurl }}/momentum/support/)
