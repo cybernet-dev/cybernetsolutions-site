@@ -6,6 +6,14 @@ permalink: /momentum/design-philosophy/
 
 # Momentum Design Philosophy
 
+Momentum Design Philosophy
+
+Momentum was built on the belief that meaningful personal growth comes from consistent, focused action—not from trying to change everything at once.
+
+Rather than encouraging long checklists of habits, Momentum helps you concentrate on a small number of meaningful areas of your life. Research on habit formation suggests that repeated behaviors performed in consistent contexts are more likely to become automatic over time. Research in cognitive psychology also shows that pursuing too many goals simultaneously can divide attention and reduce consistency.
+
+Every design decision in Momentum is intended to reduce friction, encourage consistency, and help transform intentional actions into lasting habits. The goal isn't to help you do more each day—it's to help you build habits that last.
+
 ## Learn More
 
 ### Habit Formation
