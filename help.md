@@ -46,6 +46,4 @@ Special thanks to the following for their support:
 
 - Pooh
 - The CW
-- The Hec
-- HamBone
-- And many more!
+- Hec

@@ -9,7 +9,7 @@ permalink: /momentum/
 
        alt="Momentum Logo"
 
-       width="200">
+       width="300">
 
 </p>
 
@@ -17,27 +17,34 @@ permalink: /momentum/
 
 Momentum is a personal growth application designed to help users focus on what matters most and build consistent daily progress.
 
-## The Idea
+## Our Approach
 
-Big goals are rarely achieved through a single action. They are achieved through small, consistent actions repeated over time.
+Meaningful progress rarely comes from a single action. It is built through small, intentional choices repeated consistently over time.
 
-Momentum helps users identify the important areas of their lives and commit to meaningful daily actions that move them forward.
+Momentum helps you focus on the areas of life that matter most, turn your priorities into practical daily commitments, and build confidence through consistent action.
 
 ## How It Works
 
-1. Create a Momentum Area
-2. Define one or more Daily Commitments
-3. Complete your commitments each day
-4. Build momentum through consistency
+1. Create Momentum Areas for the priorities you want to develop.
+2. Define a clear daily commitment and record why it matters to you.
+3. Prioritize up to three Areas as your active daily focus.
+4. Complete your commitments and monitor your progress over time.
+5. Use reminders, cues, and performance insights to strengthen your routine.
 
 ## Features
 
-- Simple and focused user experience
-- Track important life priorities
-- Daily commitment management
-- Progress visualization
-- Local-first data storage
-- Privacy-focused design
+- **Focused daily priorities** — Organize your goals into Momentum Areas and select up to three as your active focus.
+- **Meaningful commitments** — Define a specific daily action and capture the motivation behind it.
+- **Priority-based workflow** — See your highest-priority incomplete commitment as your Current Focus, with the remaining Areas organized under Next Up.
+- **Daily progress tracking** — View completed commitments, completion percentage, and overall progress for the day.
+- **Habit confidence insights** — Review your recent completion rate and see how consistently you act in relation to your chosen cue time.
+- **Completion history** — View a seven-day summary or explore your progress through the full history calendar.
+- **Historical editing** — Correct or update completion records from previous days.
+- **Custom reminders and cues** — Schedule morning and evening reminders, plus individual cue notifications for each Area.
+- **Home Screen quick actions** — Complete focused commitments directly from the Momentum app icon.
+- **Flexible Area management** — Add, edit, delete, and reorder Areas as your priorities change.
+- **Local-first privacy** — Your Momentum Areas and completion history remain on your device. Momentum does not collect or track your personal data.
+- **Accessible, focused design** — A clear and distraction-free experience designed to keep attention on the actions that matter.
 
 ## Privacy First
 
