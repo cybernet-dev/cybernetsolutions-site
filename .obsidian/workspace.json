@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "momentum.md",
+                "file": "privacy.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "momentum"
+              "title": "privacy"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "momentum.md",
+                "file": "privacy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for momentum"
+              "title": "Backlinks for privacy"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "momentum.md",
+                "file": "privacy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from momentum"
+              "title": "Outgoing links from privacy"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "momentum.md",
+                "file": "privacy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of momentum"
+              "title": "Outline of privacy"
             }
           }
         ]
@@ -185,8 +185,8 @@
   },
   "active": "6c86b4e0c4333b44",
   "lastOpenFiles": [
-    "index.md",
     "momentum.md",
-    "help.md"
+    "help.md",
+    "index.md"
   ]
 }

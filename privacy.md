@@ -10,7 +10,7 @@ Last Updated: June 2026
 
 Momentum is designed with privacy in mind.
 
-The application stores user data locally on the user’s device and does not require account creation.
+The application stores user data locally on the user’s device and does not require account creation.  iCloud OS-managed backups are supported.
 
 ## Information Collection
 
@@ -42,7 +42,7 @@ Momentum does not display advertising.
 
 ## Data Sharing
 
-Momentum does not sell, share, or transmit user data to third parties.
+Momentum does not sell, share, or transmit user data to third parties.  
 
 ## Children’s Privacy
 
