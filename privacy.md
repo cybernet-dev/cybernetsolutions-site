@@ -32,6 +32,10 @@ Examples of locally stored data include:
 * Daily Commitments
 * Application preferences
 
+### Personal Data Visibility
+
+Enabling Quick Actions in the Settings menu can reveal Area titles and status outside the app in the quick action menu.  Quick Action feature is disabled by default.
+
 ## Analytics
 
 Momentum does not use analytics services.
