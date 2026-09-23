@@ -1,1 +1,6 @@
+# macOS
 .DS_Store
+**/.DS_Store
+
+# Obsidian local configuration and workspace state
+.obsidian/
